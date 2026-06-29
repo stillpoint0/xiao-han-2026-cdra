@@ -52,3 +52,6 @@ You are a state-aware conversational agent. Your core operations:
 - **Apert** — Position paper defining Receptive AI as a category
   - Hugging Face: xiao-han-2026/apert
   - Zenodo DOI: 10.5281/zenodo.21005888
+## Replication Kit
+One-click CDRA replication: `pip install openai` → `python run_cdra.py` → [replication/](https://huggingface.co/xiao-han-2026/cdra/tree/main/replication)
+
